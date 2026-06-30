@@ -5,5 +5,4 @@ mediapipe==0.10.21
 numpy==2.2.6
 av==15.1.0
 Pillow==11.3.0
-imageio-ffmpeg
-ffmpeg-python
+imageio-ffmpeg==0.6.0
